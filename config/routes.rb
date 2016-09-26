@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   
   get 'recipes/index'
 
@@ -56,4 +57,8 @@ Rails.application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+=======
+  get 'recipes/index'
+  root 'recipes#index'
+>>>>>>> c110d90a6d5ce8237fe88f45cc16b769ad03113a
 end

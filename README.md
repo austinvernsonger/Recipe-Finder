@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Assignment for Module #3: Recipe Finder (Austin Vern Songer)
+=======
+## Assignment for Module #3: Recipe Finder
+>>>>>>> c110d90a6d5ce8237fe88f45cc16b769ad03113a
 
 The overall goal of this assignment is to implement a Rails application using model,
 view, and controller classes.
